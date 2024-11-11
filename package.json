@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "composer": "^4.1.0",
+    "dos2unix": "^1.1.2"
+  }
+}
